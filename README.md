@@ -1,7 +1,15 @@
 # Image-Classifier-Rock-Paper-Scissors
-Submission Belajar Machine Learning untuk Pemula - Dicoding Author : Sari Nurbaiti  Dataset : Rock Paper Scissors Total Images : 2188
+Submission Belajar Machine Learning untuk Pemula - Dicoding 
+
+Author : Sari Nurbaiti  
+
+Dataset : Rock Paper Scissors 
+
+Total Images : 2188
+
 Proyek Akhir : Klasifikasi Gambar
-Submission Checklists
+
+Submission Checklists:
 
         Dataset harus dibagi menjadi train set dan validation set. (Terpenuhi)
 
